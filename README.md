@@ -1,4 +1,4 @@
 animated-lana
 =============
 
-just test repository
+just a test repository
